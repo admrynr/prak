@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<bukus>
+    <buku>
+        <kode>12-34</kode>
+        <judul>Android Untuk Noob</judul>
+        <pengarang>Roy Hodgson</pengarang>
+    </buku>
+    <buku>
+        <kode>56-78</kode>
+        <judul>Android Tingkat Expert</judul>
+        <pengarang>Rafael Benitez</pengarang>
+    </buku>
+</bukus>
